@@ -1,0 +1,19 @@
+{
+  "name": "renovate-issue-repro",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenwade/renovate-issue-repro.git"
+  },
+  "author": "Stephen Wade <stephen@stephenwade.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenwade/renovate-issue-repro/issues"
+  },
+  "homepage": "https://github.com/stephenwade/renovate-issue-repro#readme",
+  "dependencies": {
+    "node-fetch": "3.0.0-beta.9"
+  }
+}
