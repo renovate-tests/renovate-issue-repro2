@@ -1,5 +1,9 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "packageRules": [{
+    "packageNames": ["node-fetch"],
+    "allowedVersions": "!/^3\\.0\\.0-beta\\.6-exportfix$/"
+  }]
 }
